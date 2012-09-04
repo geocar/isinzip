@@ -1,0 +1,3 @@
+# normally you'll call this with make args...
+all: isinzip
+isinzip: 

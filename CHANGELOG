@@ -1,0 +1,20 @@
+2005-12-07 09:25  geocar
+
+	* unix/isinzip.c: don't say anything when no match
+
+2005-12-07 06:46  geocar
+
+	* unix/isinzip.c: note directory entries made by infozip
+
+2005-12-07 06:45  geocar
+
+	* unix/isinzip.c: comment
+
+2005-12-07 06:42  geocar
+
+	* unix/isinzip.c: support general purpose flag & 8
+
+2005-12-07 05:56  geocar
+
+	* unix/isinzip.c: adding tool: isinzip
+
